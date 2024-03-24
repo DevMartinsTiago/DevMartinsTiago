@@ -1,7 +1,7 @@
 
 ### Olá! Seja bem vindo(a)!
 ### Eu sou Tiago Martins 👋
-### Atualmente estou atuando como Salesforce Developer
+#### Atualmente estou atuando como Salesforce Developer
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-martins-a81456167/)
 [![Whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519997711979)
@@ -20,4 +20,4 @@
 <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws">
 </div><br/>
 
-### Atualmente eu estou cursando ADS e busco sempre aperfeiçoar meus conhecimentos
+### Estou cursando ADS e busco sempre aperfeiçoar meus conhecimentos
